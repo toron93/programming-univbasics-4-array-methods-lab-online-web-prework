@@ -1,4 +1,4 @@
-def using_include(array, element)
+def true = ["array, element1"]
 
 end
 
